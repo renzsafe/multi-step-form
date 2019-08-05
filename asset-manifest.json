@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/renzsafe.github.io/multi-step-form/static/css/main.2cce8147.chunk.css",
-    "main.js": "/renzsafe.github.io/multi-step-form/static/js/main.9b858e0f.chunk.js",
-    "main.js.map": "/renzsafe.github.io/multi-step-form/static/js/main.9b858e0f.chunk.js.map",
-    "runtime~main.js": "/renzsafe.github.io/multi-step-form/static/js/runtime~main.508606a7.js",
-    "runtime~main.js.map": "/renzsafe.github.io/multi-step-form/static/js/runtime~main.508606a7.js.map",
-    "static/js/2.5f49492c.chunk.js": "/renzsafe.github.io/multi-step-form/static/js/2.5f49492c.chunk.js",
-    "static/js/2.5f49492c.chunk.js.map": "/renzsafe.github.io/multi-step-form/static/js/2.5f49492c.chunk.js.map",
-    "index.html": "/renzsafe.github.io/multi-step-form/index.html",
-    "precache-manifest.7a5edbbd9d7e614929c37098e30d9384.js": "/renzsafe.github.io/multi-step-form/precache-manifest.7a5edbbd9d7e614929c37098e30d9384.js",
-    "service-worker.js": "/renzsafe.github.io/multi-step-form/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/renzsafe.github.io/multi-step-form/static/css/main.2cce8147.chunk.css.map"
+    "main.css": "/multi-step-form/static/css/main.2cce8147.chunk.css",
+    "main.js": "/multi-step-form/static/js/main.94db9648.chunk.js",
+    "main.js.map": "/multi-step-form/static/js/main.94db9648.chunk.js.map",
+    "runtime~main.js": "/multi-step-form/static/js/runtime~main.da720dd4.js",
+    "runtime~main.js.map": "/multi-step-form/static/js/runtime~main.da720dd4.js.map",
+    "static/js/2.5f49492c.chunk.js": "/multi-step-form/static/js/2.5f49492c.chunk.js",
+    "static/js/2.5f49492c.chunk.js.map": "/multi-step-form/static/js/2.5f49492c.chunk.js.map",
+    "index.html": "/multi-step-form/index.html",
+    "precache-manifest.7259795a6127859670a9ccccd4b95f7a.js": "/multi-step-form/precache-manifest.7259795a6127859670a9ccccd4b95f7a.js",
+    "service-worker.js": "/multi-step-form/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/multi-step-form/static/css/main.2cce8147.chunk.css.map"
   }
 }
